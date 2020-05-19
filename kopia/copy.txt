@@ -1,0 +1,194 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.2 225816  9420 ?        Ss   21:30   0:01 /sbin/init splash
+root         2  0.0  0.0      0     0 ?        S    21:30   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        I    21:30   0:00 [kworker/0:0]
+root         4  0.0  0.0      0     0 ?        I<   21:30   0:00 [kworker/0:0H]
+root         6  0.0  0.0      0     0 ?        I<   21:30   0:00 [mm_percpu_wq]
+root         7  0.0  0.0      0     0 ?        S    21:30   0:00 [ksoftirqd/0]
+root         8  0.0  0.0      0     0 ?        I    21:30   0:01 [rcu_sched]
+root         9  0.0  0.0      0     0 ?        I    21:30   0:00 [rcu_bh]
+root        10  0.0  0.0      0     0 ?        S    21:30   0:00 [migration/0]
+root        11  0.0  0.0      0     0 ?        S    21:30   0:00 [watchdog/0]
+root        12  0.0  0.0      0     0 ?        S    21:30   0:00 [cpuhp/0]
+root        13  0.0  0.0      0     0 ?        S    21:30   0:00 [cpuhp/1]
+root        14  0.0  0.0      0     0 ?        S    21:30   0:00 [watchdog/1]
+root        15  0.0  0.0      0     0 ?        S    21:30   0:00 [migration/1]
+root        16  0.0  0.0      0     0 ?        S    21:30   0:00 [ksoftirqd/1]
+root        18  0.0  0.0      0     0 ?        I<   21:30   0:00 [kworker/1:0H]
+root        19  0.0  0.0      0     0 ?        S    21:30   0:00 [cpuhp/2]
+root        20  0.0  0.0      0     0 ?        S    21:30   0:00 [watchdog/2]
+root        21  0.0  0.0      0     0 ?        S    21:30   0:00 [migration/2]
+root        22  0.0  0.0      0     0 ?        S    21:30   0:00 [ksoftirqd/2]
+root        24  0.0  0.0      0     0 ?        I<   21:30   0:00 [kworker/2:0H]
+root        25  0.0  0.0      0     0 ?        S    21:30   0:00 [cpuhp/3]
+root        26  0.0  0.0      0     0 ?        S    21:30   0:00 [watchdog/3]
+root        27  0.0  0.0      0     0 ?        S    21:30   0:00 [migration/3]
+root        28  0.0  0.0      0     0 ?        S    21:30   0:00 [ksoftirqd/3]
+root        30  0.0  0.0      0     0 ?        I<   21:30   0:00 [kworker/3:0H]
+root        31  0.0  0.0      0     0 ?        S    21:30   0:00 [kdevtmpfs]
+root        32  0.0  0.0      0     0 ?        I<   21:30   0:00 [netns]
+root        33  0.0  0.0      0     0 ?        S    21:30   0:00 [rcu_tasks_kthre]
+root        34  0.0  0.0      0     0 ?        S    21:30   0:00 [kauditd]
+root        35  0.0  0.0      0     0 ?        I    21:30   0:00 [kworker/0:1]
+root        38  0.0  0.0      0     0 ?        S    21:30   0:00 [khungtaskd]
+root        39  0.0  0.0      0     0 ?        S    21:30   0:00 [oom_reaper]
+root        40  0.0  0.0      0     0 ?        I<   21:30   0:00 [writeback]
+root        41  0.0  0.0      0     0 ?        S    21:30   0:00 [kcompactd0]
+root        42  0.0  0.0      0     0 ?        SN   21:30   0:00 [ksmd]
+root        43  0.0  0.0      0     0 ?        SN   21:30   0:00 [khugepaged]
+root        44  0.0  0.0      0     0 ?        I<   21:30   0:00 [crypto]
+root        45  0.0  0.0      0     0 ?        I<   21:30   0:00 [kintegrityd]
+root        46  0.0  0.0      0     0 ?        I<   21:30   0:00 [kblockd]
+root        47  0.0  0.0      0     0 ?        I<   21:30   0:00 [ata_sff]
+root        48  0.0  0.0      0     0 ?        I<   21:30   0:00 [md]
+root        49  0.0  0.0      0     0 ?        I<   21:30   0:00 [edac-poller]
+root        50  0.0  0.0      0     0 ?        I<   21:30   0:00 [devfreq_wq]
+root        51  0.0  0.0      0     0 ?        I<   21:30   0:00 [watchdogd]
+root        53  0.0  0.0      0     0 ?        I    21:30   0:00 [kworker/2:1]
+root        55  0.0  0.0      0     0 ?        S    21:30   0:00 [kswapd0]
+root        57  0.0  0.0      0     0 ?        S    21:30   0:00 [ecryptfs-kthrea]
+root        99  0.0  0.0      0     0 ?        I<   21:30   0:00 [kthrotld]
+root       100  0.0  0.0      0     0 ?        I<   21:30   0:00 [acpi_thermal_pm]
+root       104  0.0  0.0      0     0 ?        I    21:30   0:00 [kworker/1:2]
+root       105  0.0  0.0      0     0 ?        I<   21:30   0:00 [ipv6_addrconf]
+root       114  0.0  0.0      0     0 ?        I<   21:30   0:00 [kstrp]
+root       131  0.0  0.0      0     0 ?        I<   21:30   0:00 [charger_manager]
+root       180  0.0  0.0      0     0 ?        S    21:30   0:00 [scsi_eh_0]
+root       181  0.0  0.0      0     0 ?        I<   21:30   0:00 [scsi_tmf_0]
+root       182  0.0  0.0      0     0 ?        S    21:30   0:00 [scsi_eh_1]
+root       183  0.0  0.0      0     0 ?        I<   21:30   0:00 [scsi_tmf_1]
+root       184  0.0  0.0      0     0 ?        S    21:30   0:00 [scsi_eh_2]
+root       185  0.0  0.0      0     0 ?        I    21:30   0:00 [kworker/2:2]
+root       186  0.0  0.0      0     0 ?        I<   21:30   0:00 [scsi_tmf_2]
+root       187  0.0  0.0      0     0 ?        S    21:30   0:00 [scsi_eh_3]
+root       188  0.0  0.0      0     0 ?        I<   21:30   0:00 [scsi_tmf_3]
+root       189  0.0  0.0      0     0 ?        S    21:30   0:00 [scsi_eh_4]
+root       190  0.0  0.0      0     0 ?        I<   21:30   0:00 [scsi_tmf_4]
+root       191  0.0  0.0      0     0 ?        S    21:30   0:00 [scsi_eh_5]
+root       192  0.0  0.0      0     0 ?        I<   21:30   0:00 [scsi_tmf_5]
+root       201  0.0  0.0      0     0 ?        S    21:30   0:00 [i915/signal:0]
+root       202  0.0  0.0      0     0 ?        S    21:30   0:00 [i915/signal:1]
+root       203  0.0  0.0      0     0 ?        S    21:30   0:00 [i915/signal:2]
+root       206  0.0  0.0      0     0 ?        I<   21:30   0:00 [kworker/0:1H]
+root       209  0.0  0.0      0     0 ?        I<   21:30   0:00 [kworker/3:1H]
+root       212  0.0  0.0      0     0 ?        I<   21:30   0:00 [kworker/1:1H]
+root       313  0.0  0.0      0     0 ?        S    21:30   0:00 [jbd2/sda3-8]
+root       314  0.0  0.0      0     0 ?        I<   21:30   0:00 [ext4-rsv-conver]
+root       347  0.0  0.0      0     0 ?        I<   21:30   0:00 [kworker/2:1H]
+root       363  0.0  1.1 133488 43776 ?        S<s  21:30   0:00 /lib/systemd/systemd-journald
+root       390  0.0  0.0  97708  1836 ?        Ss   21:30   0:00 /sbin/lvmetad -f
+root       392  0.0  0.1  46972  5248 ?        Ss   21:30   0:00 /lib/systemd/systemd-udevd
+root       436  0.0  0.0      0     0 ?        S    21:30   0:00 [irq/32-mei_me]
+root       470  0.0  0.0      0     0 ?        I<   21:30   0:00 [cfg80211]
+root       570  0.0  0.0      0     0 ?        I<   21:30   0:00 [led_workqueue]
+root       589  0.0  0.0      0     0 ?        I<   21:30   0:00 [kmemstick]
+root       627  0.0  0.0      0     0 ?        S    21:30   0:00 [nvidia-modeset]
+root       632  0.0  0.0      0     0 ?        S    21:30   0:00 [UVM global queu]
+root       635  0.0  0.0      0     0 ?        S    21:30   0:00 [UVM Tools Event]
+root       645  0.0  0.0      0     0 ?        I<   21:30   0:00 [kworker/u33:1]
+root       646  0.0  0.0      0     0 ?        I<   21:30   0:00 [kworker/u33:2]
+systemd+   803  0.0  0.1  70900  6348 ?        Ss   21:30   0:00 /lib/systemd/systemd-resolved
+systemd+   805  0.0  0.0 146116  3232 ?        Ssl  21:30   0:00 /lib/systemd/systemd-timesyncd
+root       807  0.0  0.0  32540  3212 ?        Ss   21:30   0:00 /usr/sbin/cron -f
+root       809  0.0  0.0   4552   848 ?        Ss   21:30   0:00 /usr/sbin/acpid
+root       813  0.0  0.2 503064 11568 ?        Ssl  21:30   0:00 /usr/lib/udisks2/udisksd
+avahi      815  0.0  0.0  47264  3232 ?        Ss   21:30   0:00 avahi-daemon: running [majkel-machine.local]
+root       817  0.0  0.2 181112  9424 ?        Ssl  21:30   0:00 /usr/sbin/thermald --no-daemon --dbus-enable
+kernoops   818  0.0  0.0  56944   416 ?        Ss   21:30   0:00 /usr/sbin/kerneloops --test
+root       820  0.0  0.0 110484  2100 ?        Ssl  21:30   0:00 /usr/sbin/irqbalance --foreground
+root       830  0.0  0.4 171704 17256 ?        Ssl  21:30   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root       832  0.0  0.2 434336  9624 ?        Ssl  21:30   0:00 /usr/sbin/ModemManager --filter-policy=strict
+root       836  0.0  0.1 289176  7300 ?        Ssl  21:30   0:00 /usr/lib/accountsservice/accounts-daemon
+message+   839  0.0  0.1  51316  5484 ?        Ss   21:30   0:00 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root       842  0.0  0.4 560572 17360 ?        Ssl  21:30   0:01 /usr/sbin/NetworkManager --no-daemon
+root       843  0.0  0.2  45488  8200 ?        Ss   21:30   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root       844  0.0  0.2 178360 10452 ?        Ss   21:30   0:00 /usr/sbin/cupsd -l
+root       845  0.0  0.1  70616  5916 ?        Ss   21:30   0:00 /lib/systemd/systemd-logind
+syslog     846  0.0  0.1 263036  4660 ?        Ssl  21:30   0:00 /usr/sbin/rsyslogd -n
+root       847  0.0  0.1  36544  4448 ?        Ss   21:30   0:00 /usr/lib/bluetooth/bluetoothd
+kernoops   851  0.0  0.0  56944   416 ?        Ss   21:30   0:00 /usr/sbin/kerneloops
+avahi      885  0.0  0.0  47076   340 ?        S    21:30   0:00 avahi-daemon: chroot helper
+root       886  0.0  0.2 306200 11808 ?        Ssl  21:30   0:00 /usr/sbin/cups-browsed
+root       901  0.0  0.2 293024  8772 ?        Ssl  21:30   0:00 /usr/lib/policykit-1/polkitd --no-debug
+colord     914  0.0  0.3 319440 14112 ?        Ssl  21:30   0:00 /usr/lib/colord/colord
+root       941  0.0  0.1 290468  6740 ?        Ssl  21:30   0:00 /usr/sbin/lightdm
+root       958  3.4  2.2 523984 90740 tty7     Ssl+ 21:30   2:43 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root       960  0.0  0.0  17400  1944 tty1     Ss+  21:30   0:00 /sbin/agetty -o -p -- \u --noclear tty1 linux
+nvidia-+   975  0.0  0.0  17312  2104 ?        Ss   21:30   0:00 /usr/bin/nvidia-persistenced --user nvidia-persistenced --no-persistence-mode --verbose
+root       976  0.1  0.0      0     0 ?        S    21:30   0:08 [irq/34-nvidia]
+root       977  0.0  0.0      0     0 ?        S    21:30   0:00 [nvidia]
+root       994  0.0  0.1  25992  6232 ?        S    21:30   0:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /run/dhclient-wlp3s0.pid -lf /var/lib/NetworkManager/dhclient-d9272ffb-1459-4da7-8404-6b861bb91c6f-wlp3s0.lease -cf /var/lib/NetworkManager/dhclient-wlp3s0.conf wlp3s0
+root      1161  0.0  0.1 266804  7568 ?        Sl   21:30   0:00 lightdm --session-child 13 16
+majkel    1165  0.0  0.2  76880  8076 ?        Ss   21:30   0:00 /lib/systemd/systemd --user
+majkel    1166  0.0  0.0 132740  3120 ?        S    21:30   0:00 (sd-pam)
+majkel    1177  0.0  0.7 448188 31452 ?        Ssl  21:30   0:00 mate-session
+majkel    1368  0.0  0.1  50416  4616 ?        Ss   21:30   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+majkel    1502  0.0  0.0  11304   316 ?        Ss   21:30   0:00 /usr/bin/ssh-agent /usr/bin/im-launch mate-session
+lp        1562  0.0  0.1  86420  5984 ?        S    21:30   0:00 /usr/lib/cups/notifier/dbus dbus://
+majkel    1574  0.0  0.1 349492  6308 ?        Ssl  21:30   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+majkel    1579  0.0  0.1  50056  4208 ?        S    21:30   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+majkel    1581  0.0  0.1 220780  6860 ?        Sl   21:30   0:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+majkel    1588  0.0  0.1 188164  5512 ?        Sl   21:30   0:00 /usr/lib/dconf/dconf-service
+majkel    1592  0.0  0.1 282820  7416 ?        Sl   21:30   0:00 gnome-keyring-daemon --start
+majkel    1596  0.0  0.8 1117040 34036 ?       Sl   21:30   0:01 /usr/bin/mate-settings-daemon
+majkel    1601  0.0  0.1 286288  7156 ?        Ssl  21:30   0:00 /usr/lib/gvfs/gvfsd
+majkel    1606  0.0  0.1 416116  5516 ?        Sl   21:30   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+majkel    1619  0.2  0.9 494300 38032 ?        Sl   21:30   0:11 marco --composite --replace
+majkel    1620  0.0  0.8 699916 31948 ?        Sl   21:30   0:00 mate-panel
+majkel    1628  0.1  1.8 1308188 73056 ?       Sl   21:30   0:05 caja
+majkel    1631  0.2  1.5 690104 61168 ?        Sl   21:30   0:10 mintmenu
+majkel    1633  0.0  0.7 542668 30672 ?        Sl   21:30   0:01 /usr/lib/mate-panel/wnck-applet
+majkel    1636  0.3  0.3 1164692 12928 ?       S<l  21:30   0:15 /usr/bin/pulseaudio --start --log-target=syslog
+rtkit     1637  0.0  0.0 183508  2972 ?        SNsl 21:30   0:00 /usr/lib/rtkit/rtkit-daemon
+majkel    1648  0.0  0.7 545408 30576 ?        Sl   21:30   0:00 /usr/lib/mate-panel/clock-applet
+majkel    1650  0.0  0.5 471720 21904 ?        Sl   21:30   0:00 /usr/lib/mate-panel/notification-area-applet
+root      1652  0.0  0.0      0     0 ?        S<   21:30   0:00 [krfcommd]
+majkel    1676  0.0  0.2 374676  8924 ?        Ssl  21:30   0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+majkel    1680  0.0  0.1 268424  6012 ?        Ssl  21:30   0:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+majkel    1685  0.0  0.1 283080  6892 ?        Ssl  21:30   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+majkel    1696  0.0  0.4 414080 19472 ?        Sl   21:30   0:00 mate-screensaver
+majkel    1699  0.0  0.9 353148 39260 ?        Sl   21:30   0:00 python2 /usr/lib/nvidia-prime-applet/nvidia-prime
+majkel    1703  0.0  0.8 599812 32152 ?        Sl   21:30   0:00 nm-applet
+majkel    1704  0.0  0.8 435808 31920 ?        Sl   21:30   0:00 blueberry-obex-agent
+majkel    1715  0.0  0.6 506464 26996 ?        Sl   21:30   0:00 mate-power-manager
+majkel    1722  0.0  0.1 373136  7732 ?        Ssl  21:30   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+majkel    1723  0.0  0.8 251384 32812 ?        Sl   21:30   0:00 /usr/bin/python3 /usr/share/system-config-printer/applet.py
+majkel    1724  0.0  0.7 644608 29096 ?        Sl   21:30   0:00 mate-volume-control-applet
+majkel    1725  0.0  0.4 324892 16108 ?        Sl   21:30   0:00 /usr/lib/x86_64-linux-gnu/polkit-mate/polkit-mate-authentication-agent-1
+majkel    1766  0.0  0.1 270156  6176 ?        Ssl  21:30   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+majkel    1776  0.0  0.1  82736  6804 ?        Ss   21:30   0:00 /usr/lib/bluetooth/obexd
+root      1785  0.0  0.2 316824  8776 ?        Ssl  21:30   0:00 /usr/lib/upower/upowerd
+majkel    1824  0.0  0.1 362584  7272 ?        Sl   21:30   0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.15 /org/gtk/gvfs/exec_spaw/0
+majkel    1854  0.0  0.1 199292  6368 ?        Ssl  21:31   0:00 /usr/lib/gvfs/gvfsd-metadata
+majkel    1870  0.0  1.5 736768 60892 ?        Sl   21:31   0:00 mintUpdate
+majkel    1936 23.7 10.9 3679632 433332 ?      Sl   21:32  18:25 /home/majkel/Pulpit/firefox/firefox
+majkel    1985  1.9  6.3 3230508 251956 ?      Sl   21:32   1:31 /home/majkel/Pulpit/firefox/firefox-bin -contentproc -childID 1 -isForBrowser -prefsLen 1 -prefMapSize 221974 -parentBuildID 20200507114007 -appdir /home/majkel/Pulpit/firefox/browser 1936 true tab
+majkel    2075 26.4  6.1 28129288 242144 ?     Sl   21:32  20:29 /home/majkel/Pulpit/firefox/firefox-bin -contentproc -childID 3 -isForBrowser -prefsLen 6375 -prefMapSize 221974 -parentBuildID 20200507114007 -appdir /home/majkel/Pulpit/firefox/browser 1936 true tab
+root      2353  0.0  0.0  45840  2268 ?        S    21:41   0:00 dbus-launch --autolaunch=02edfdcf6caf4ee59de513cfb8d2ed58 --binary-syntax --close-stderr
+root      2354  0.0  0.0  49796  2848 ?        Ss   21:41   0:00 /usr/bin/dbus-daemon --syslog-only --fork --print-pid 5 --print-address 7 --session
+root      2817  0.0  0.3 368140 14004 ?        Ssl  21:41   0:00 /usr/lib/packagekit/packagekitd
+majkel    2930  1.1  4.7 2911740 189264 ?      Sl   21:46   0:42 /home/majkel/Pulpit/firefox/firefox-bin -contentproc -childID 6 -isForBrowser -prefsLen 7814 -prefMapSize 221974 -parentBuildID 20200507114007 -appdir /home/majkel/Pulpit/firefox/browser 1936 true tab
+majkel    2968  0.4  5.1 2682816 204680 ?      Sl   21:47   0:18 /home/majkel/Pulpit/firefox/firefox-bin -contentproc -childID 7 -isForBrowser -prefsLen 7814 -prefMapSize 221974 -parentBuildID 20200507114007 -appdir /home/majkel/Pulpit/firefox/browser 1936 true tab
+root      3023  0.0  0.0      0     0 ?        I    21:53   0:00 [kworker/3:0]
+root      3125  0.0  0.0      0     0 ?        I    22:08   0:00 [kworker/3:1]
+root      3134  0.0  0.0      0     0 ?        I    22:12   0:00 [kworker/1:1]
+root      3146  0.0  0.0      0     0 ?        I    22:17   0:00 [kworker/u32:2]
+root      3218  0.0  0.0      0     0 ?        I    22:34   0:00 [kworker/u32:1]
+root      3238  0.0  0.0      0     0 ?        I    22:39   0:00 [kworker/u32:0]
+root      3257  0.0  0.0  16032  2520 ?        Ss   22:40   0:00 /sbin/mount.ntfs /dev/sda4 /media/majkel/ACD4F4CCD4F49A32 -o rw,nodev,nosuid,uid=1000,gid=1000,uhelper=udisks2
+majkel    3299  0.3  0.9 643916 37540 ?        Sl   22:42   0:01 mate-terminal
+majkel    3305  0.0  0.1  24232  5624 pts/0    Ss   22:42   0:00 bash
+majkel    3465  0.1  1.6 2520756 64372 ?       Sl   22:47   0:00 /home/majkel/Pulpit/firefox/firefox-bin -contentproc -childID 9 -isForBrowser -prefsLen 10016 -prefMapSize 221974 -parentBuildID 20200507114007 -appdir /home/majkel/Pulpit/firefox/browser 1936 true tab
+majkel    3528  0.9  1.5 689340 59836 ?        Sl   22:49   0:00 xed /home/majkel/Projekt/Zajecia/Kurs-CPP_02/03_Narzędzia Linux Git/processes.txt
+majkel    3535  0.0  0.0  40972  3620 pts/0    R+   22:50   0:00 ps aux
+183 processes.txt
+99:root       830  0.0  0.4 171704 17256 ?        Ssl  21:30   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+102:message+   839  0.0  0.1  51316  5484 ?        Ss   21:30   0:00 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+117:nvidia-+   975  0.0  0.0  17312  2104 ?        Ss   21:30   0:00 /usr/bin/nvidia-persistenced --user nvidia-persistenced --no-persistence-mode --verbose
+125:majkel    1368  0.0  0.1  50416  4616 ?        Ss   21:30   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+126:majkel    1502  0.0  0.0  11304   316 ?        Ss   21:30   0:00 /usr/bin/ssh-agent /usr/bin/im-launch mate-session
+129:majkel    1579  0.0  0.1  50056  4208 ?        S    21:30   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+133:majkel    1596  0.0  0.8 1117040 34036 ?       Sl   21:30   0:01 /usr/bin/mate-settings-daemon
+141:majkel    1636  0.3  0.3 1164692 12928 ?       S<l  21:30   0:15 /usr/bin/pulseaudio --start --log-target=syslog
+155:majkel    1723  0.0  0.8 251384 32812 ?        Sl   21:30   0:00 /usr/bin/python3 /usr/share/system-config-printer/applet.py
+168:root      2354  0.0  0.0  49796  2848 ?        Ss   21:41   0:00 /usr/bin/dbus-daemon --syslog-only --fork --print-pid 5 --print-address 7 --session
