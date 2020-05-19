@@ -1,0 +1,62 @@
+ 1963  exit
+ 1964  git init
+ 1965  touch processes.txt
+ 1966  ps aux
+ 1967  ps aux > processes.txt 
+ 1968  cp processes.txt copy.txt
+ 1969  ls
+ 1970  vim copy.txt 
+ 1971  mkdir kopia
+ 1972  mv copy.txt kopia/
+ 1973  wc -l
+ 1974  wc -l processes.txt 
+ 1975  wc -l processes.txt > processes.txt 
+ 1976  ps aux > processes.txt 
+ 1977  wc -l processes.txt >> processes.txt 
+ 1978  grep -w "/bin" processes.txt 
+ 1979  grep -w "*/bin*" processes.txt 
+ 1980  grep -w "root" processes.txt 
+ 1981  grep -w */bin* processes.txt 
+ 1982  grep -w *bin* processes.txt 
+ 1983  grep -w "bin" processes.txt 
+ 1984  grep -w "//bin" processes.txt 
+ 1985  grep -w "\/bin" processes.txt 
+ 1986  grep -w "*\/bin*" processes.txt 
+ 1987  grep -w ".bin" processes.txt 
+ 1988  grep -w "\bin\\\bin" processes.txt 
+ 1989  grep -w "\/" processes.txt 
+ 1990  grep -w "\/bin" processes.txt 
+ 1991  grep -w "\/\bin" processes.txt 
+ 1992  grep -w "\/bin" processes.txt 
+ 1993  exit
+ 1994  history
+ 1995  exit
+ 1996  grep -v '\/bin' processes.txt 
+ 1997  grep -w '\/bin' processes.txt 
+ 1998  grep -w '\//bin' processes.txt 
+ 1999  grep -w "\//bin" processes.txt 
+ 2000  grep -w "\/bin" processes.txt 
+ 2001  echo '/bin'
+ 2002  grep -w '/bin' processes.txt 
+ 2003  grep -w '//bin' processes.txt 
+ 2004  grep -v '//bin' processes.txt 
+ 2005  grep --help
+ 2006  grep -w '*\bin*' processes.txt 
+ 2007  grep -w "*\bin*" processes.txt 
+ 2008  grep -C "bin" processes.txt 
+ 2009  grep -w "bin" processes.txt 
+ 2010  grep -w "/bin" processes.txt 
+ 2011  grep -w '/bin' processes.txt 
+ 2012  grep -w 'bin' processes.txt 
+ 2013  grep -w '\[a-z]bin' processes.txt 
+ 2014  grep -n 'bin' processes.txt 
+ 2015  grep -n '/bin' processes.txt 
+ 2016  grep -n '/bin' processes.txt >> processes.txt 
+ 2017  grep -n '//bin' processes.txt 
+ 2018  grep -n '/bin' processes.txt
+ 2019  cp processes.txt kopia/copy.txt 
+ 2020  grep -n '/bin' processes.txt >> kopia/copy.txt 
+ 2021  history
+ 2022  history | tail -60
+ 2023  touch commands.txt
+ 2024  history | tail -62 >> commands.txt 
